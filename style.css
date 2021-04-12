@@ -1,0 +1,69 @@
+:root {
+    --primary-color: #C5D9D9
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+.section1{
+    background-color: black ;
+}
+
+.nav-logo {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 10%;
+}
+.nav-logo-img {
+    padding: 0.9rem;
+    padding-left: 2.5rem;
+}
+.section1-figure {
+    display: flex;
+    flex-direction: column;
+    background-color: blueviolet;
+    width: 100%;
+    height: 40rem;
+}
+.section1-figure-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.section1-titulo1 {
+    color:var(--primary-color);
+    font-size: 3rem;
+    margin-top: 1.8rem;
+    margin-bottom: 1.8rem;
+    padding-left: 3.4rem;
+}
+.section1-texto {
+    color: var(--primary-color);
+    margin-left: 3.4rem;
+}
+.section1-texto p {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.section1-boton {
+    display: flex;
+    background-color: black;
+    margin-left: 19rem;
+}
+.section1-boton1 {
+    font-size: 1.5rem;
+    border-style: none;
+    text-align: center;
+    color:black;
+    background-color:var(--primary-color);
+    padding: 9 2.5rem;
+    border-radius: 4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
