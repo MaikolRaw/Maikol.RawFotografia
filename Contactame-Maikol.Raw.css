@@ -74,6 +74,7 @@ html {
     margin-bottom: 1rem;
     border-radius: 1rem;
     border-color: none;
+    border-style: none;
 }
 .contactame-formulario-email {
     display: flex;
