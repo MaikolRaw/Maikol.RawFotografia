@@ -14,13 +14,16 @@ html {
 }
 
 .nav-logo {
+    display: flex;
+    justify-content: start;
     background-color: black;
     width: 100vw;
-    height: 10vh;
+    height: 9vh;
 }
 .nav-logo-img {
-    height: 100%;
-    padding: 0.9rem;
+    margin: auto 0;
+    height: 80%;
+    padding: 0rem;
     padding-left: 2.5rem;
 }
 .section1-figure {
