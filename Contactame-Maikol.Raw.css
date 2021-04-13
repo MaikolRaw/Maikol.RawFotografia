@@ -9,15 +9,20 @@
 html {
     font-size: 62.5%;
 }
+.section1{
+    background-color: black ;
+}
 .body-contactame {
     background-color: black;
 }
 .nav-logo {
     display: flex;
-    justify-content: start;
     background-color: black;
     width: 100vw;
-    height: 9vh;
+    height: 9%;
+}
+.nav-logo-link {
+    margin: auto 0;   
 }
 .nav-logo-img {
     margin: auto 0;
@@ -25,6 +30,7 @@ html {
     width: 70%;
     padding: 0rem;
     padding-left: 2.5rem;
+    padding-left: 0 2.5rem;
 }
 .contactame{
     display: flex;
@@ -97,7 +103,7 @@ html {
     border-radius: 1rem;
     border-style: none;
 }
-.contactame-boton {
+.contactame-link {
     font-size: 2rem;
     border-style: none;
     text-align: center;
@@ -106,4 +112,11 @@ html {
     border-radius: 4rem;
     padding: 0.5rem 0rem;
     margin: 1rem 0rem;
+}
+.contactame-boton {
+    font-size: 2rem;
+    border-style: none;
+    text-align: center;
+    color:black;
+    background-color:var(--primary-color);
 }
