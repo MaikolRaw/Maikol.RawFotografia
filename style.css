@@ -16,10 +16,11 @@ html {
 .nav-logo {
     display: flex;
     background-color: black;
-    width: 100%;
-    height: 10%;
+    width: 100vw;
+    height: 10vh;
 }
 .nav-logo-img {
+    height: 100%;
     padding: 0.9rem;
     padding-left: 2.5rem;
 }
