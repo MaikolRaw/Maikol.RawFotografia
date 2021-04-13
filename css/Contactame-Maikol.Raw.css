@@ -27,8 +27,8 @@ html {
 }
 .nav-logo-img {
     margin: auto 0;
-    height: 70%;
-    width: 70%;
+    height: 4rem;
+    width: 24rem;
     padding: 0rem;
     padding-left: 2.5rem;
 }
@@ -103,21 +103,21 @@ html {
     margin-bottom: 1rem;
     border-radius: 1rem;
     border-style: none;
-}
+}   
 .contactame-link {
-    font-size: 1.5rem;
-    border-style: none;
     text-align: center;
+    width: 12rem;
+    border-style: none;
     color:black;
     background-color:var(--primary-color);
     border-radius: 4rem;
     padding: 0.5rem 0rem;
-    margin: 1rem 0rem;
+    margin: 0 auto;
 }
 .contactame-boton {
+    margin: auto 0;
     font-size: 2rem;
     border-style: none;
-    text-align: center;
     color:black;
     background-color:var(--primary-color);
 }

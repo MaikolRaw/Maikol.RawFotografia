@@ -24,8 +24,8 @@ html {
 }
 .nav-logo-img {
     margin: auto 0;
-    height: 70%;
-    width: 70%;
+    height: 4rem;
+    width: 24rem;
     padding: 0rem;
     padding-left: 2.5rem;
 }
@@ -110,9 +110,9 @@ html {
 .section2-boton {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
     background-color: black;
-    margin-right: 5rem  ;
+    margin-left: 5rem  ;
 }
 .section2-boton2 {
     font-size: 1.5rem;
@@ -206,11 +206,11 @@ html {
     margin-bottom: 1.5rem;
 }
 .section4-boton {
-    display: flex;
+    display: flex;  
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
     background-color: black;
-    margin-right: 5rem  ;
+    margin-left: 5rem  ;
 }
 .section4-boton4 {
     font-size: 1.5rem;
