@@ -47,6 +47,7 @@ html {
 .section1-texto {
     color: var(--primary-color);
     margin-left: 3.4rem;
+    margin-right: 3.4rem;
 }
 .section1-texto p {
     font-size: 1.5rem;
@@ -95,6 +96,7 @@ html {
 .section2-texto {
     color: var(--primary-color);
     margin-left: 3.4rem;
+    margin-right: 3.4rem;
 }
 .section2-texto p {
     font-size: 1.5rem;
@@ -143,6 +145,7 @@ html {
 .section3-texto {
     color: var(--primary-color);
     margin-left: 3.4rem;
+    margin-right: 3.4rem;
 }
 .section3-texto p {
     font-size: 1.5rem;
@@ -191,6 +194,7 @@ html {
 .section4-texto {
     color: var(--primary-color);
     margin-left: 3.4rem;
+    margin-right: 3.4rem;
 }
 .section4-texto p {
     font-size: 1.5rem;
