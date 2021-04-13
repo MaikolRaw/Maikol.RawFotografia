@@ -12,12 +12,9 @@ html {
 .section1{
     background-color: black ;
 }
-<<<<<<< HEAD
 .nav-logo-link {
     margin: auto 0;
 }
-=======
->>>>>>> contactame
 .nav-logo {
     display: flex;
     justify-content: start;
