@@ -9,15 +9,15 @@
 html {
     font-size: 62.5%;
 }
+.nav-logo-link {
+    margin: auto 0;
+}
 .nav-logo {
     display: flex;
     justify-content: start;
     background-color: black;
     width: 100vw;
     height: 9vh;
-}
-.nav-logo-link {
-    margin: auto 0;   
 }
 .nav-logo-img {
     margin: auto 0;
