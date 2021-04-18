@@ -1,0 +1,70 @@
+:root {
+    --primary-color: #C5D9D9
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+.nav-logo {
+    display: flex;
+    justify-content: start;
+    background-color: black;
+    width: 100vw;
+    height: 9vh;
+}
+.nav-logo-link {
+    margin: auto 0;   
+}
+.nav-logo-img {
+    margin: auto 0;
+    height: 4rem;
+    width: 24rem;
+    padding: 0rem;
+    padding-left: 2.5rem;
+}
+.bodas,
+.bodas1,
+.bodas2,
+.bodas3,
+.bodas4{
+    background-color: black ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 1.1rem;
+}
+.text-container {
+    padding-top: 3.5rem;
+    padding-bottom: 2rem;
+}
+.bodas-container1 {
+    height: 28rem;
+    width: 28rem;
+    background-color: blue;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.bodas-container2 {
+    height: 28rem;
+    width: 28rem;
+    background-color: blue;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.bodas-container3 {
+    height: 28rem;
+    width: 28rem;
+    background-color: blue;
+    margin-top: 1rem;
+    margin-bottom: 8rem;
+}
+.bodas-container-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
