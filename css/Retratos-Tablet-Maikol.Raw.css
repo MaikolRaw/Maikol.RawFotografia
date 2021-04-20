@@ -1,5 +1,13 @@
-.retratos, 
-.retratos1 {
+.retratos,
+.retratos1, 
+.retratos2h,
+.retratos3,
+.retratos4,
+.retratos5,
+.retratos6,
+.retratos7,
+.retratos8,
+.retratos9 {
     background-color: black ;
     display: flex;
     flex-direction: row;
@@ -19,5 +27,23 @@
 .retratos-container3 {
     height: 22rem;
     width: 22rem;
+    margin: 8rem 1rem;
+}
+
+/* horizontal */
+
+.retratos-container1h {
+    height: 25rem;
+    width: 20rem;
+    margin: 8rem 1rem;
+}
+.retratos-container2h {
+    height: 25rem;
+    width: 20rem;
+    margin: 8rem 1rem;
+}
+.retratos-container3h {
+    height: 25rem;
+    width: 20rem;
     margin: 8rem 1rem;
 }
