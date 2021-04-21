@@ -43,7 +43,7 @@ html {
 .text-nav {
     padding: 0.5rem;
     font-size: 1.7rem;
-    color: var(--primary-color) ;
+    color: white;
     text-decoration: none;
 }
 
