@@ -10,21 +10,33 @@ html {
     font-size: 62.5%;
 }
 .nav-logo {
+    padding-top: 1rem;
     display: flex;
-    justify-content: start;
+    flex-direction: column;
+    align-items: center;
     background-color: black;
     width: 100vw;
-    height: 9vh;
-}
-.nav-logo-link {
-    margin: auto 0;   
+    height: auto;
+    padding-bottom: 1rem;
 }
 .nav-logo-img {
-    margin: auto 0;
-    height: 4rem;
+    align-items: center;
+    height: 4.8rem;
     width: 24rem;
     padding: 0rem;
-    padding-left: 2.5rem;
+}
+.text1 {
+    font-size: 2rem;
+}
+.text-container1 {
+    background-color: black ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 2    rem;
+    padding-top: 2rem;
+    padding-bottom: 0rem;
 }
 .retratos,
 .retratos1,
@@ -103,3 +115,15 @@ html {
     height: 100%;
     object-fit: cover;
     }
+
+.retratos-container-t {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    background-color: black;
+}
+.retratos-t {
+    padding: 1rem 0rem;
+}
