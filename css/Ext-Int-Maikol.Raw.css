@@ -9,15 +9,15 @@
 html {
     font-size: 62.5%;
 }
+.nav-logo-link {
+    margin: auto 0;
+}
 .nav-logo {
     display: flex;
     justify-content: start;
     background-color: black;
-    width: 100vw;
+    width: 100%;
     height: 9vh;
-}
-.nav-logo-link {
-    margin: auto 0;   
 }
 .nav-logo-img {
     margin: auto 0;
@@ -26,80 +26,74 @@ html {
     padding: 0rem;
     padding-left: 2.5rem;
 }
-.retratos,
-.retratos1,
-.retratos3,
-.retratos4,
-.retratos5,
-.retratos6,
-.retratos7,
-.retratos8,
-.retratos9{
+.ext,
+.ext1{
     background-color: black ;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.retratos-container1 {
-    height: 28rem;
-    width: 28rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-.retratos-container2 {
-    height: 28rem;
-    width: 28rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-.retratos-container3 {
-    height: 28rem;
-    width: 28rem;
-    margin-top: 1rem;
-    margin-bottom: 8rem;
-}
-.retratos-container-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-.retratos2h {
+.text-container {
     background-color: black ;
     display: flex;
     flex-direction: column;
-    align-items: center;  
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 0.8rem;
+    padding-top: 3.5rem;
+    padding-bottom: 2rem;
 }
-
-/* HORIZONTAL */
-
-.retratos-container1h {
-    height: 30rem;
-    width: 25rem;
+.ext-container1 {
+    height: 28rem;
+    width: 28rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-.retratos-container2h {
-    height: 30rem;
-    width: 25rem;
+.ext-container2 {
+    height: 28rem;
+    width: 28rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-.retratos-container3h {
-    height: 30rem;
-    width: 25rem;
+.ext-container3 {
+    height: 28rem;
+    width: 28rem;
     margin-top: 1rem;
-    margin-bottom: 8rem;
+    margin-bottom: 1rem;
 }
-.retratos-container-imgh {
+.ext-container4 {
+    height: 28rem;
+    width: 28rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.ext-container5 {
+    height: 28rem;
+    width: 28rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.ext-container6 {
+    height: 28rem;
+    width: 28rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.ext-container7 {
+    height: 28rem;
+    width: 28rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.ext-container8 {
+    height: 28rem;
+    width: 28rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.ext-container-img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-
-/* Exepciones */
-
-.retratos-container-img1 {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    }
