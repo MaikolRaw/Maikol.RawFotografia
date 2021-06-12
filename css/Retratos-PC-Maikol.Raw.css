@@ -1,0 +1,49 @@
+.retratos,
+.retratos1, 
+.retratos2h,
+.retratos3,
+.retratos4,
+.retratos5,
+.retratos6,
+.retratos7,
+.retratos8,
+.retratos9 {
+    background-color: black ;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.retratos-container1 {
+    height: 40rem;
+    width: 40rem;
+    margin: 8rem 1rem;
+}
+.retratos-container2 {
+    height: 40rem;
+    width: 40rem;
+    margin: 8rem 1rem;
+}
+.retratos-container3 {
+    height: 40rem;
+    width: 40rem;
+    margin: 8rem 1rem;
+}
+
+/* horizontal */
+
+.retratos-container1h {
+    height: 42rem;
+    width: 38rem;
+    margin: 8rem 1rem;
+}
+.retratos-container2h {
+    height: 42rem;
+    width: 38rem;
+    margin: 8rem 1rem;
+}
+.retratos-container3h {
+    height: 42rem;
+    width: 38rem;
+    margin: 8rem 1rem;
+}

@@ -1,0 +1,129 @@
+:root {
+    --primary-color: #C5D9D9
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+.nav-logo-link {
+    margin: auto 0;
+}
+.nav-logo {
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    width: 100vw;
+    height: auto;
+}
+.nav-logo-img {
+    align-items: center;
+    height: 4.8rem;
+    width: 24rem;
+    padding: 0rem;
+}
+.text1 {
+    font-size: 1.8rem;
+}
+.text-container1 {
+    background-color: black ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 0.8rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.ext,
+.ext1{
+    background-color: black ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.text-container {
+    background-color: black ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 0.8rem;
+    padding-top: 3.5rem;
+    padding-bottom: 2rem;
+}
+.ext-container1 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container2 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container3 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container4 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container5 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container6 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container7 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+
+.ext-container8 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container9 {
+    height: 30rem;
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin: 1rem 2rem;
+}
+.ext-container-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
