@@ -11,7 +11,7 @@ html {
 }
 .nav {
     display: flex;
-    width: 100vw;
+    width: 98.9vw;
     height: auto;
     position: sticky;
     top: 0;
